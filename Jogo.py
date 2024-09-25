@@ -1,7 +1,7 @@
 import pygame
 import os
 import sys
-os.chdir('C:\\Users\\Bruno Filho\\Documents\\Projetos Programação\\Python\\Jogo Navezinha')
+os.chdir('C:\\Users\\) #Coloque o diretório onde estão os arquivos do jogo
 pygame.init()
 
 WIDTH = 960
